@@ -12,4 +12,4 @@ images:
   newTag: v1.0.11
 - name: todoapp-frontend
   newName: asia-northeast1-docker.pkg.dev/devops-gke-argocd/todoapp-repository/todoapp-frontend
-  newTag: v1.0.6
+  newTag: v1.0.7
